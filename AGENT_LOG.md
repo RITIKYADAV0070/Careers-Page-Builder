@@ -1,4 +1,4 @@
-# AGENT_LOG – AI Usage Notes
+# AGENT_LOG 
 
 ## Purpose of This Log
 
