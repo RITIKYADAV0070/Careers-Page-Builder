@@ -1,0 +1,16 @@
+{
+  "sample-company": {
+    "sections": [
+      {
+        "id": 1,
+        "title": "About Us",
+        "content": "We are building world-class products."
+      },
+      {
+        "id": 2,
+        "title": "Life at Company",
+        "content": "People-first culture with global teams."
+      }
+    ]
+  }
+}

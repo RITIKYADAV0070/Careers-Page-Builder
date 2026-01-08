@@ -1,0 +1,7 @@
+{
+  "sample-company": {
+    "name": "Sample Company",
+    "brandColor": "#4f46e5",
+    "showSalary": true
+  }
+}
