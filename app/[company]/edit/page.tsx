@@ -1,6 +1,6 @@
 "use client";
 
-import { companies, pages } from "@/lib/data";
+import { companies, pages } from "../../../lib/data";
 import { useState } from "react";
 import { notFound } from "next/navigation";
 

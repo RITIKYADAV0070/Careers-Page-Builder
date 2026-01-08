@@ -1,6 +1,6 @@
 "use client";
 
-import { companies, jobs, pages } from "@/lib/data";
+import { companies, jobs, pages } from "../../../lib/data";
 import { useEffect, useMemo, useState } from "react";
 import { notFound, useSearchParams } from "next/navigation";
 

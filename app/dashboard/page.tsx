@@ -1,5 +1,4 @@
-import { companies } from "@/lib/data";
-
+import { companies } from "../../lib/data";
 export default function Dashboard() {
   return (
     <main className="min-h-screen bg-slate-50 px-6 py-16">
